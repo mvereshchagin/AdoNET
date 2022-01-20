@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0fa650b-6e61-42c2-ae73-5f094e151f43": {
+      "ProjectGuid": "c0fa650b-6e61-42c2-ae73-5f094e151f43",
+      "DisplayName": "MyApp",
+      "ColorIndex": 0
+    },
+    "6b8b3b47-67e5-4d1b-9f6f-f5310a6c14fc": {
+      "ProjectGuid": "6b8b3b47-67e5-4d1b-9f6f-f5310a6c14fc",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
